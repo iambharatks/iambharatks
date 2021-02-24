@@ -14,6 +14,9 @@
 <br />
 <br />
 
+![](https://komarev.com/ghpvc/?username=iambharatks)
+
+
 ![Bharat Kumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=iambharatks&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambharatks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
 <br />
 
