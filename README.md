@@ -9,7 +9,7 @@
 <br />
 <br />
 
-<img height = "350px" width="862px" src="https://www.questers.com/sites/default/files/1200x630-programmers-day.jpg" />
+<img height = "400px" width="862px" src="https://www.questers.com/sites/default/files/1200x630-programmers-day.jpg" />
 
 <br />
 <br />
