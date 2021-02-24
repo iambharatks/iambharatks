@@ -28,9 +28,7 @@
 
 ### Connect with me 🤝:
 
-[<img align = "left" height = "40px" width="40px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][website]
-[<img align = "left" height = "40px" width="70px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" />][gmail]
-[<img align = "left" height = "40px" width="40px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
+[<img align = "left" height = "40px" width="40px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][website][<img align = "left" height = "40px" width="70px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" />][gmail][<img align = "left" height = "40px" width="40px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
 
 <br />
 <br />
