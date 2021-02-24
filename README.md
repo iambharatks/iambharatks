@@ -26,14 +26,13 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="iambharatks Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<br />
-
 ### Connect with me 🤝:
 
 [<img align = "left" height = "26px" width="26px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][website]
 [<img align = "left" height = "26px" width="40px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" />][gmail]
 [<img align = "left" height = "26px" width="26px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png" />][discord]
 
+<br />
 <br />
 
 ### Competitive Coding Profile:
@@ -46,8 +45,6 @@
 
 <img  alt="C++" height = "35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" /><img  alt="Java" height = "60px" width="60px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" /><img  alt="Python" height = "35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /><img  alt="HTML" height = "40px" width="40px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" /> <img  alt="CSS" height = "40px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> <img  alt="Visual Studio Code" height = "35px" width="35px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> <img  alt="Dart" height = "30px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
 
-<br />
-<br />
 
 ### Technology I have worked and still working on:
 
