@@ -34,7 +34,7 @@
 <br />
 <br />
 
-### Competitive Coding Profile:
+### Competitive Coding Profiles:
 
 [<img   alt="Codechef" height = "35px" width="35px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />][codechef]  [<img  alt="Codeforces" height = "20px" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" />][codeforces]  [<img   alt="LeetCode" height = "35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]  [<img alt="Hackerrank"  width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][hackerrank]  [<img  alt="SPOJ" height = "35px" width="35px" src="https://pbs.twimg.com/profile_images/568733328090480640/B1rm7i-y_400x400.jpeg" />][spoj]  [<img  alt="Hackerearth" height = "35px" width="35px" src="https://i.pinimg.com/originals/6b/5c/ba/6b5cba015ccc362e4842ccacf0b381e6.png" />][hackerearth]  [<img  alt="CSES Problem Set" height = "35px" width="60px" src="https://cses.fi/logo.png?1" />][cses]
 
