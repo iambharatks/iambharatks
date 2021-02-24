@@ -28,7 +28,7 @@
 
 <br />
 
-### Connect with me :
+### Connect with me 🤝:
 
 [<img align = "left" height = "26px" width="26px" src="https://icons-for-free.com/iconfiles/png/512/linked+linkedin+logo+social+icon-1320191784782940875.png" />][website]
 [<img align = "left" height = "26px" width="40px" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" />][gmail]
