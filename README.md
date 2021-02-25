@@ -53,7 +53,7 @@
 ---
 
 [discord]:https://discordapp.com/users/761631394580660255
-[gmail]:https://mail.google.com/mail/u/0/#inbox
+[gmail]:https://mail.google.com/mail/u/0/#inbox?compose=new
 [website]: https://www.linkedin.com/in/bharat-k-s/
 [codechef]:https://www.codechef.com/users/iambharatks
 [codeforces]: http://codeforces.com/profile/bharatks
