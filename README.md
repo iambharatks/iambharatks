@@ -43,7 +43,7 @@
 ### Languages and Tools:
 
 <img  alt="C++" height = "35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" /><img  alt="Java" height = "60px" width="60px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" /><img  alt="Python" height = "35px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /><img  alt="HTML" height = "40px" width="40px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" /> <img  alt="CSS" height = "40px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" /> <img  alt="Visual Studio Code" height = "35px" width="35px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" /> <img  alt="Dart" height = "30px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png" />
-
+<img alt="Flask" height="45px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png">
 
 ### Technology I have worked and still working on:
 
