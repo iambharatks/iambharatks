@@ -48,6 +48,7 @@
 ### Technology I have worked and still working on:
 
 <img  alt="Flutter" height = "30px" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" /> <img  alt="Flutter" height = "50px" width="70px" src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" /> <img  alt="Flutter" height = "80px" width="80px" src="https://www.inventateq.com/assets/machine-banner.png" /> 
+<img alt="Backend Development" width="70px" src="https://user-images.githubusercontent.com/55586537/121473042-b070bb00-c9df-11eb-817b-c70bd19962f1.jpg">
 <br />
 <br />
 ---
