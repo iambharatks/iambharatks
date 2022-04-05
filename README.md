@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning new technologies.
 - 👯 I’m looking for internship opportunity.
-- 🥅 2021 Goals: To many to write... 😅.
+- 🥅 2022 Goals: To many to write... 😅.
 - 👨‍💻 I love solving coding problems and puzzles.
 <br />
 <br />
