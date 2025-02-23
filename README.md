@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a passionate developer focused on building end-to-end automation tools by leveraging my full-stack expertise and cutting-edge Generative AI technologies. My work revolves around designing and implementing intelligent solutions that seamlessly integrate AI-driven capabilities into real-world applications.<br><br>🔹 Building scalable backend systems using Python (Flask, FastAPI) and Java (Spring Boot microservices)<br>🔹 Developing AI-powered automation tools with Agentic AI, CrewAI, LangChain, and Phidata<br>🔹 Implementing Retrieval-Augmented Generation (RAG), LLMs, Computer Vision, and Vector Databases<br>🔹 Utilizing Docker & Kubernetes for containerization and orchestration
+I'm a passionate developer focused on building <b> end-to-end applications </b> by leveraging my <b>full-stack</b> expertise and cutting-edge <b> Generative AI </b> technologies. My work revolves around designing and implementing intelligent solutions that seamlessly integrate AI-driven capabilities into real-world applications.<br><br>🔹 Building scalable backend systems using <b> Python (Flask, FastAPI)</b> and <b>Java (Spring Boot microservices)</b><br>🔹 Developing AI-powered automation tools with <b>Agentic AI, CrewAI, LangChain, and Phidata</b> <br>🔹 Implementing <b> Retrieval-Augmented Generation (RAG), LLMs, Computer Vision, and Vector Databases</b> <br>🔹 Utilizing <b> Docker & Kubernetes </b> for <b> containerization and orchestration </b>
 
 ## 🌐 Socials:
 
