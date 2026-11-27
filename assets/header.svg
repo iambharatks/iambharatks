@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Bharat Kumar Sharma — Backend &amp; AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <clipPath id="shape">
+      <path d="M0 0 H1200 V180 C1000 230 800 150 600 185 C400 220 200 150 0 195 Z"/>
+    </clipPath>
+    <style>
+      .name { font: 700 52px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; opacity: 0; animation: fade 1.2s ease-out .2s forwards; }
+      .role { font: 500 21px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #cbd5e1; letter-spacing: 1px; opacity: 0; animation: fade 1.2s ease-out .7s forwards; }
+      .line { transform-origin: 600px 0; transform: scaleX(0); animation: grow 1s ease-out 1s forwards; }
+      .wave { animation: drift 9s ease-in-out infinite alternate; }
+      @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes grow { to { transform: scaleX(1); } }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="230" fill="url(#bg)"/>
+    <path class="wave" d="M0 165 C200 125 400 205 600 160 C800 115 1000 195 1260 150 V230 H0 Z" fill="#2dd4bf" opacity="0.08"/>
+    <path class="wave" style="animation-duration:13s" d="M0 185 C250 145 450 215 700 175 C900 145 1050 205 1260 170 V230 H0 Z" fill="#38bdf8" opacity="0.07"/>
+  </g>
+
+  <text class="name" x="600" y="92" text-anchor="middle">Bharat Kumar Sharma</text>
+  <rect class="line" x="520" y="112" width="160" height="3" rx="1.5" fill="url(#accent)"/>
+  <text class="role" x="600" y="148" text-anchor="middle">Backend &amp; AI Engineer  ·  Agentic AI  ·  AIOps</text>
+</svg>
