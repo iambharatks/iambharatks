@@ -76,17 +76,36 @@ I'm a **Backend & AI Engineer** with **3+ years** of experience shipping product
   </tr>
 </table>
 
-<!-- ============================ OPEN-SOURCE PROJECTS ============================
-Uncomment and fill in once the public repos are picked (3–4 max).
-Each card links to the repo and shows live stars and forks.
+---
 
 ## 🛠️ Open-Source Projects
 
-<p align="center">
-  <a href="https://github.com/iambharatks/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iambharatks&repo=REPO_1&theme=github_dark&hide_border=true" /></a>
-  <a href="https://github.com/iambharatks/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iambharatks&repo=REPO_2&theme=github_dark&hide_border=true" /></a>
-</p>
-=================================================================================== -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://iambharatks.github.io/ryuk/"><img src="https://github.com/iambharatks/ryuk/raw/HEAD/docs/screenshots/gaze.png" alt="Ryuk dashboard" width="100%" /></a>
+    </td>
+    <td valign="top">
+      <h3>📓 <a href="https://github.com/iambharatks/ryuk">Ryuk</a></h3>
+      <i>Write your life one line at a time. An LLM turns it into data.</i>
+      <br/><br/>
+      🧠 Free text from Telegram becomes typed rows via <b>Gemini</b> with JSON-schema output, validation and model fallback<br/>
+      🔒 Privacy by design: bank SMS and health data are parsed by <b>regex</b> and never sent to the LLM<br/>
+      🔑 Passkeys (WebAuthn) on the web and a <b>Secure Enclave</b> key in the iOS app<br/>
+      ☁️ Two <b>Cloudflare Workers</b> + D1 + R2, costing <b>₹0/month</b>
+      <br/><br/>
+      <a href="https://iambharatks.github.io/ryuk/"><img src="https://img.shields.io/badge/▶%20Live%20demo-2DD4BF?style=for-the-badge&logoColor=black" alt="Live demo" /></a>
+      <a href="https://github.com/iambharatks/ryuk"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
+      <br/><sub>TypeScript · React · Cloudflare Workers · D1 · R2 · Gemini · Capacitor/Swift</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>📚 <a href="https://github.com/iambharatks/almanac">Almanac</a></b> · My engineering almanac: notes on <b>backend, system design, DSA and competitive programming</b>. Learning in public.
+      &nbsp;<a href="https://github.com/iambharatks/almanac"><img src="https://img.shields.io/badge/Read%20notes-181717?style=flat-square&logo=github&logoColor=white" alt="Read notes" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,10 +124,10 @@ Each card links to the repo and shows live stars and forks.
 <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white" />
 
 **⚙️ Languages, Backend & Data**<br/>
-<img src="https://skillicons.dev/icons?i=python,rust,java,cpp,js,fastapi,spring,react,graphql,postgres,mysql,mongodb,redis&perline=13" alt="Languages and backend" />
+<img src="https://skillicons.dev/icons?i=python,rust,java,cpp,ts,js,fastapi,spring,react,graphql,postgres,mysql,mongodb,redis&perline=14" alt="Languages and backend" />
 
 **☁️ Cloud & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,git,linux&perline=13" alt="Cloud and infrastructure" />
+<img src="https://skillicons.dev/icons?i=aws,cloudflare,terraform,docker,kubernetes,githubactions,git,linux&perline=14" alt="Cloud and infrastructure" />
 
 <details>
 <summary><b>More: AWS services, data engineering & others</b></summary>
